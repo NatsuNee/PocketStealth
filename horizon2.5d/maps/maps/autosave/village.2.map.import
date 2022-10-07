@@ -1,0 +1,13 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+path="res://.import/village.2.map-897e0c31a3c906154a8d3e7c3f71d3a2.tres"
+
+[deps]
+
+source_file="res://horizon2.5d/maps/maps/autosave/village.2.map"
+dest_files=[ "res://.import/village.2.map-897e0c31a3c906154a8d3e7c3f71d3a2.tres" ]
+
+[params]
+

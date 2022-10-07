@@ -1,0 +1,13 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+path="res://.import/city.22.map-07ffe79a33fe77f7d93d883fbd90eb4e.tres"
+
+[deps]
+
+source_file="res://horizon2.5d/maps/maps/autosave/city.22.map"
+dest_files=[ "res://.import/city.22.map-07ffe79a33fe77f7d93d883fbd90eb4e.tres" ]
+
+[params]
+

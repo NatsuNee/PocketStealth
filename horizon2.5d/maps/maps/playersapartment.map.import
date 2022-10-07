@@ -1,0 +1,13 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+path="res://.import/playersapartment.map-cc386a3754529fcf3c4fb63a7c3ced1c.tres"
+
+[deps]
+
+source_file="res://horizon2.5d/maps/maps/playersapartment.map"
+dest_files=[ "res://.import/playersapartment.map-cc386a3754529fcf3c4fb63a7c3ced1c.tres" ]
+
+[params]
+

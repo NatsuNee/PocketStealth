@@ -1,0 +1,349 @@
+// Game: ZeroRPG
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"_tb_textures" "textures;textures/loose;textures/wads"
+// brush 0
+{
+( 6 -240 12 ) ( 6 -239 12 ) ( 6 -240 13 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 6 -240 12 ) ( 6 -240 13 ) ( 7 -240 12 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 6 -240 12 ) ( 7 -240 12 ) ( 6 -239 12 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 12 -238 92 ) ( 12 -237 92 ) ( 13 -238 92 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 12 -238 14 ) ( 13 -238 14 ) ( 12 -238 15 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 14 -238 14 ) ( 14 -238 15 ) ( 14 -237 14 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 1
+{
+( 6 -200 12 ) ( 6 -199 12 ) ( 6 -200 13 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 6 -200 12 ) ( 6 -200 13 ) ( 7 -200 12 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 6 -200 12 ) ( 7 -200 12 ) ( 6 -199 12 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 12 -198 92 ) ( 12 -197 92 ) ( 13 -198 92 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 12 -198 14 ) ( 13 -198 14 ) ( 12 -198 15 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 14 -198 14 ) ( 14 -198 15 ) ( 14 -197 14 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 2
+{
+( 6 -236 90 ) ( 6 -235 90 ) ( 6 -236 91 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 6 -238 90 ) ( 6 -238 91 ) ( 7 -238 90 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 6 -236 90 ) ( 7 -236 90 ) ( 6 -235 90 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 14 -226 92 ) ( 14 -225 92 ) ( 15 -226 92 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 14 -200 92 ) ( 15 -200 92 ) ( 14 -200 93 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 14 -226 92 ) ( 14 -226 93 ) ( 14 -225 92 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 3
+{
+( 12 -12 28 ) ( 12 -11 28 ) ( 12 -12 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 40 -54 40 ) ( 40 -54 98 ) ( 168 -54 98 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -124 44 ) ( 168 -54 44 ) ( 40 -54 44 ) loose/WhitePlasterWall 0 60 90 1 1
+( 40 -112 248 ) ( 40 -62 248 ) ( 168 -62 248 ) loose/WhitePlasterWall 0 60 90 1 1
+( 12 -8 130 ) ( 40 -40 130 ) ( 40 -40 258 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -140 -4 ) ( 40 -140 -3 ) ( 40 -139 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 4
+{
+( 12 -113.95744680851408 122 ) ( 12 -160 122 ) ( 12 -160 44 ) loose/WhitePlasterWall 0 0 0 1 1
+( 40 -128 44 ) ( 40 -114.2978723404251 44 ) ( 12 -114.2978723404251 44 ) loose/WhitePlasterWall 0 60 90 1 1
+( 12 -113.95744680851408 248 ) ( 40 -113.95744680851202 248 ) ( 40 -128 248 ) loose/WhitePlasterWall 0 60 90 1 1
+( 12 -113.95744680851408 122 ) ( 12 -114.2978723404251 44 ) ( 40 -114.2978723404251 44 ) loose/Brick 0 0 0 0.2 0.2
+( 12 -160 122 ) ( 40 -128 122 ) ( 40 -128 44 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -128 122 ) ( 40 -113.95744680851202 122 ) ( 40 -114.2978723404251 44 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 5
+{
+( 8 -114.12765957447118 130 ) ( 8 -113.95744680852204 122 ) ( 8 -54 122 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -113.95744680852204 122 ) ( 12 -114.12765957447118 130 ) ( 40 -116.12765957447209 130 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -115.95744680852226 122 ) ( 40 -54 122 ) ( 12 -54 122 ) loose/WhitePlasterWall 0 60 90 1 1
+( 12 -54 148 ) ( 40 -54 148 ) ( 40 -116.12765957447209 148 ) loose/InnerWallBrown 0 60 90 1 1
+( 40 -54 122 ) ( 40 -54 130 ) ( 12 -54 130 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -116.12765957447209 130 ) ( 40 -54 130 ) ( 40 -54 122 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 6
+{
+( 8 -4 28 ) ( 8 -3 28 ) ( 8 -4 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -160 -4 ) ( 11 -160 -4 ) ( 12 -160 -3 ) loose/WhitePlasterWall 0 0 180 1 1
+( 12 -132 12 ) ( 12 -131 12 ) ( 11 -132 12 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -4 130 ) ( -117 -4 130 ) ( -116 -3 130 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -114 28 ) ( -116 -114 29 ) ( -117 -114 28 ) loose/WhitePlasterWall 0 0 180 1 1
+( 12 -132 -4 ) ( 12 -132 -3 ) ( 12 -131 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 7
+{
+( 8 102 28 ) ( 8 103 28 ) ( 8 102 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -54 -4 ) ( 11 -54 -4 ) ( 12 -54 -3 ) loose/WhitePlasterWall 0 0 180 1 1
+( 12 -26 12 ) ( 12 -25 12 ) ( 11 -26 12 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 102 130 ) ( -117 102 130 ) ( -116 103 130 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -8 28 ) ( -116 -8 29 ) ( -117 -8 28 ) loose/WhitePlasterWall 0 0 180 1 1
+( 12 -26 -4 ) ( 12 -26 -3 ) ( 12 -25 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 8
+{
+( 4 -76 44 ) ( 4 -75 44 ) ( 4 -76 45 ) loose/DarkGray 0 0 0 1 1
+( 32 -114 44 ) ( 32 -114 45 ) ( 33 -114 44 ) loose/DarkGray 0 0 0 1 1
+( 32 -76 44 ) ( 33 -76 44 ) ( 32 -75 44 ) loose/DarkGray 0 0 0 1 1
+( 40 -60 48 ) ( 40 -59 48 ) ( 41 -60 48 ) loose/DarkGray 0 0 0 1 1
+( 40 -54 48 ) ( 41 -54 48 ) ( 40 -54 49 ) loose/DarkGray 0 0 0 1 1
+( 44 -60 48 ) ( 44 -60 49 ) ( 44 -59 48 ) loose/DarkGray 0 0 0 1 1
+}
+// brush 9
+{
+( 8 -112 122 ) ( 8 -114 122 ) ( 8 -114 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -114 122 ) ( 42 -114 48 ) ( 8 -114 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 42 -114 48 ) ( 42 -112 48 ) ( 8 -112 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 8 -112 122 ) ( 40 -112 122 ) ( 40 -114 122 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 8 -112 48 ) ( 42 -112 48 ) ( 40 -112 122 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -112 122 ) ( 42 -112 48 ) ( 42 -114 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 10
+{
+( 8 -54 122 ) ( 8 -56 122 ) ( 8 -56 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -56 122 ) ( 42 -56 48 ) ( 8 -56 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 42 -56 48 ) ( 42 -54 48 ) ( 8 -54 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 8 -54 122 ) ( 40 -54 122 ) ( 40 -56 122 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 8 -54 48 ) ( 42 -54 48 ) ( 40 -54 122 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -54 122 ) ( 42 -54 48 ) ( 42 -56 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 11
+{
+( 8 -18 48 ) ( 8 -17 48 ) ( 8 -18 49 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -112 48 ) ( 32 -112 49 ) ( 33 -112 48 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -18 120 ) ( 33 -18 120 ) ( 32 -17 120 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -2 122 ) ( 40 -1 122 ) ( 41 -2 122 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -56 52 ) ( 41 -56 52 ) ( 40 -56 53 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -2 52 ) ( 40 -2 53 ) ( 40 -1 52 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 12
+{
+( 8 -238 88 ) ( 8 -237 88 ) ( 8 -238 89 ) loose/InnerWallBrown 0 0 0 1 1
+( 8 -238 88 ) ( 8 -238 89 ) ( 9 -238 88 ) loose/InnerWallBrown 0 0 0 1 1
+( 8 -238 12 ) ( 9 -238 12 ) ( 8 -237 12 ) loose/InnerWallBrown 0 0 0 1 1
+( 14 -222 90 ) ( 14 -221 90 ) ( 15 -222 90 ) loose/InnerWallBrown 0 0 0 1 1
+( 14 -200 90 ) ( 15 -200 90 ) ( 14 -200 91 ) loose/InnerWallBrown 0 0 0 1 1
+( 12 -222 90 ) ( 12 -222 91 ) ( 12 -221 90 ) loose/InnerWallBrown 0 0 0 1 1
+}
+// brush 13
+{
+( 12 -12 28 ) ( 12 -11 28 ) ( 12 -12 29 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -54 40 ) ( 40 -54 98 ) ( 168 -54 98 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+( 16 -140 12 ) ( 16 -139 12 ) ( 15 -140 12 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 29.5 -140 16 ) ( 33 -136 16 ) ( 161 -136 16 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 13.982300884955748 -6.265486725663718 130 ) ( 41.98230088495575 -38.26548672566372 130 ) ( 41.98230088495575 -38.26548672566372 258 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+( 43.5 -140 -4 ) ( 43.5 -140 -3 ) ( 43.5 -139 -4 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 14
+{
+( 8 -12 28 ) ( 8 -11 28 ) ( 8 -12 29 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -116 124 ) ( 168 -114 30 ) ( 40 -114 30 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+( 16 -140 12 ) ( 16 -139 12 ) ( 15 -140 12 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 29.5 -140 16 ) ( 33 -136 16 ) ( 161 -136 16 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 40 -54 40 ) ( 168 -54 98 ) ( 40 -54 98 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+( 44 -140 -4 ) ( 44 -140 -3 ) ( 44 -139 -4 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 15
+{
+( 12 -12 28 ) ( 12 -11 28 ) ( 12 -12 29 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 16 -140 12 ) ( 16 -139 12 ) ( 15 -140 12 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 29.5 -140 16 ) ( 33 -136 16 ) ( 161 -136 16 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 40 -116 124 ) ( 40 -114 30 ) ( 168 -114 30 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+( 13.982300884955748 -161.73451327433628 130 ) ( 41.98230088495575 -129.73451327433628 258 ) ( 41.98230088495575 -129.73451327433628 130 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+( 43.5 -140 -4 ) ( 43.5 -140 -3 ) ( 43.5 -139 -4 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 16
+{
+( 8 -44 28 ) ( 8 -43 28 ) ( 8 -44 29 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 12 -198 -4 ) ( 11 -198 -4 ) ( 12 -198 -3 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 12 -172 12 ) ( 12 -171 12 ) ( 11 -172 12 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 29.5 -140 16 ) ( 33 -136 16 ) ( 161 -136 16 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( -116 -160 28 ) ( -116 -160 29 ) ( -117 -160 28 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 16 -172 -4 ) ( 16 -172 -3 ) ( 16 -171 -4 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 17
+{
+( 12 -12 28 ) ( 12 -11 28 ) ( 12 -12 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 40 -54 40 ) ( 40 -54 98 ) ( 168 -54 98 ) loose/Brick 0 0 0 0.2 0.2
+( 29.5 -140 16 ) ( 161 -136 16 ) ( 33 -136 16 ) loose/InnerWallBrown 0 60 90 1 1
+( 40 -124 44 ) ( 40 -54 44 ) ( 168 -54 44 ) loose/WhitePlasterWall 0 60 90 1 1
+( 12 -8 130 ) ( 40 -40 130 ) ( 40 -40 258 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -140 -4 ) ( 40 -140 -3 ) ( 40 -139 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 18
+{
+( 8 -12 28 ) ( 8 -11 28 ) ( 8 -12 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 40 -116 124 ) ( 168 -114 30 ) ( 40 -114 30 ) loose/Brick 0 0 0 0.2 0.2
+( 29.5 -140 16 ) ( 161 -136 16 ) ( 33 -136 16 ) loose/InnerWallBrown 0 60 90 1 1
+( 40 -124 44 ) ( 40 -54 44 ) ( 168 -54 44 ) loose/WhitePlasterWall 0 60 90 1 1
+( 40 -54 40 ) ( 168 -54 98 ) ( 40 -54 98 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -140 -4 ) ( 40 -140 -3 ) ( 40 -139 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 19
+{
+( 12 -12 28 ) ( 12 -11 28 ) ( 12 -12 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 29.5 -140 16 ) ( 161 -136 16 ) ( 33 -136 16 ) loose/InnerWallBrown 0 60 90 1 1
+( 40 -124 44 ) ( 40 -54 44 ) ( 168 -54 44 ) loose/WhitePlasterWall 0 60 90 1 1
+( 40 -116 124 ) ( 40 -114 30 ) ( 168 -114 30 ) loose/Brick 0 0 0 0.2 0.2
+( 12 -160 130 ) ( 40 -128 258 ) ( 40 -128 130 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -140 -4 ) ( 40 -140 -3 ) ( 40 -139 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 20
+{
+( 8 -114 28 ) ( 8 -113 28 ) ( 8 -114 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -268 -4 ) ( 11 -268 -4 ) ( 12 -268 -3 ) loose/WhitePlasterWall 0 0 180 1 1
+( 29.5 -140 16 ) ( 161 -136 16 ) ( 33 -136 16 ) loose/WhitePlasterWall 0 60 90 1 1
+( -116 -114 128 ) ( -117 -114 128 ) ( -116 -113 128 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -240 28 ) ( -116 -240 29 ) ( -117 -240 28 ) loose/WhitePlasterWall 0 0 180 1 1
+( 12 -242 -4 ) ( 12 -242 -3 ) ( 12 -241 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 21
+{
+( 8 -114 144 ) ( 8 -113 144 ) ( 8 -114 145 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 12 -268 112 ) ( 11 -268 112 ) ( 12 -268 113 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 12 -242 128 ) ( 12 -241 128 ) ( 11 -242 128 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 29.5 -140 132 ) ( 33 -136 132 ) ( 161 -136 132 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( -116 -160 144 ) ( -116 -160 145 ) ( -117 -160 144 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 16 -242 112 ) ( 16 -242 113 ) ( 16 -241 112 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 22
+{
+( 8 -122 144 ) ( 8 -121 144 ) ( 8 -122 145 ) loose/dev_192_gr_032x 0 0 0 1 1
+( 12 -280 112 ) ( 11 -280 112 ) ( 12 -280 113 ) loose/dev_192_gr_032x 0 0 180 1 1
+( 12 -250 16 ) ( 12 -249 16 ) ( 11 -250 16 ) loose/dev_192_gr_032x 0 60 90 1 1
+( 29.5 -148 248 ) ( 33 -144 248 ) ( 161 -144 248 ) loose/dev_192_gr_032x 0 60 90 1 1
+( -116 -268 144 ) ( -116 -268 145 ) ( -117 -268 144 ) loose/dev_192_gr_032x 0 0 180 1 1
+( 20 -250 112 ) ( 20 -250 113 ) ( 20 -249 112 ) loose/dev_192_gr_032x 0 0 0 0.2 0.2
+}
+// brush 23
+{
+( 8 -86 28 ) ( 8 -85 28 ) ( 8 -86 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -240 -4 ) ( 11 -240 -4 ) ( 12 -240 -3 ) loose/WhitePlasterWall 0 0 180 1 1
+( 29.5 -112 92 ) ( 161 -108 92 ) ( 33 -108 92 ) loose/WhitePlasterWall 0 60 90 1 1
+( -116 -86 128 ) ( -117 -86 128 ) ( -116 -85 128 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -198 28 ) ( -116 -198 29 ) ( -117 -198 28 ) loose/WhitePlasterWall 0 0 180 1 1
+( 12 -214 -4 ) ( 12 -214 -3 ) ( 12 -213 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 24
+{
+( 8 -48 28 ) ( 8 -47 28 ) ( 8 -48 29 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -198 -4 ) ( 11 -198 -4 ) ( 12 -198 -3 ) loose/WhitePlasterWall 0 0 180 1 1
+( 29.5 -74 16 ) ( 161 -70 16 ) ( 33 -70 16 ) loose/WhitePlasterWall 0 60 90 1 1
+( -116 -48 128 ) ( -117 -48 128 ) ( -116 -47 128 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -160 28 ) ( -116 -160 29 ) ( -117 -160 28 ) loose/WhitePlasterWall 0 0 180 1 1
+( 12 -176 -4 ) ( 12 -176 -3 ) ( 12 -175 -4 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 25
+{
+( 8 -50 146 ) ( 8 -49 146 ) ( 8 -50 147 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -202 114 ) ( 11 -202 114 ) ( 12 -202 115 ) loose/InnerWallBrown 0 0 180 1 1
+( 6 72 132 ) ( -6 200 132 ) ( -6 72 132 ) loose/WhitePlasterWall 0 60 90 1 1
+( -116 -50 248 ) ( -117 -50 248 ) ( -116 -49 248 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -160 146 ) ( -116 -160 147 ) ( -117 -160 146 ) loose/InnerWallBrown 0 0 180 1 1
+( 12 -178 114 ) ( 12 -178 115 ) ( 12 -177 114 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 26
+{
+( 8 -36 146 ) ( 8 -35 146 ) ( 8 -36 147 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -236 114 ) ( 11 -236 114 ) ( 12 -236 115 ) loose/InnerWallBrown 0 0 180 1 1
+( 6 86 132 ) ( -6 214 132 ) ( -6 86 132 ) loose/WhitePlasterWall 0 60 90 1 1
+( -116 -36 148 ) ( -117 -36 148 ) ( -116 -35 148 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -202 146 ) ( -116 -202 147 ) ( -117 -202 146 ) loose/InnerWallBrown 0 0 180 1 1
+( 12 -164 114 ) ( 12 -164 115 ) ( 12 -163 114 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 27
+{
+( 8 -36 246 ) ( 8 -35 246 ) ( 8 -36 247 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -236 214 ) ( 11 -236 214 ) ( 12 -236 215 ) loose/InnerWallBrown 0 0 180 1 1
+( 6 86 232 ) ( -6 214 232 ) ( -6 86 232 ) loose/WhitePlasterWall 0 60 90 1 1
+( -116 -36 248 ) ( -117 -36 248 ) ( -116 -35 248 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -202 246 ) ( -116 -202 247 ) ( -117 -202 246 ) loose/InnerWallBrown 0 0 180 1 1
+( 12 -164 214 ) ( 12 -164 215 ) ( 12 -163 214 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 28
+{
+( 40 52 144 ) ( 40 53 144 ) ( 40 52 145 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 44 -128 112 ) ( 43 -128 112 ) ( 44 -128 113 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 44 -76 128 ) ( 44 -75 128 ) ( 43 -76 128 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 61.5 26 132 ) ( 65 30 132 ) ( 193 30 132 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( -84 -40 144 ) ( -84 -40 145 ) ( -85 -40 144 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 44 -76 112 ) ( 44 -76 113 ) ( 44 -75 112 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 29
+{
+( 40 -128 132 ) ( 12 -160 260 ) ( 12 -160 132 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 44 -160 112 ) ( 43 -160 112 ) ( 44 -160 113 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 44 -164 128 ) ( 44 -163 128 ) ( 43 -164 128 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 61.5 -62 132 ) ( 65 -58 132 ) ( 193 -58 132 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( -84 -128 144 ) ( -84 -128 145 ) ( -85 -128 144 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 44 -128 132 ) ( 16 -160 132 ) ( 16 -160 260 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 30
+{
+( 0 -114 24 ) ( 0 -113 24 ) ( 0 -114 25 ) loose/DarkGray 0 0 0 1 1
+( 52 -476 -8 ) ( 51 -476 -8 ) ( 52 -476 -7 ) loose/DarkGray 0 0 180 1 1
+( 52 -242 8 ) ( 52 -241 8 ) ( 51 -242 8 ) loose/DarkGray 0 60 90 1 1
+( 69.5 -140 12 ) ( 73 -136 12 ) ( 201 -136 12 ) loose/DarkGray 0 60 90 1 1
+( -76 0 24 ) ( -76 0 25 ) ( -77 0 24 ) loose/DarkGray 0 0 180 1 1
+( 108 -242 -8 ) ( 108 -242 -7 ) ( 108 -241 -8 ) loose/DarkGray 0 0 0 0.2 0.2
+}
+// brush 31
+{
+( 8 -114 28 ) ( 8 -113 28 ) ( 8 -114 29 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 12 -268 -4 ) ( 11 -268 -4 ) ( 12 -268 -3 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 12 -242 12 ) ( 12 -241 12 ) ( 11 -242 12 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( 29.5 -140 16 ) ( 33 -136 16 ) ( 161 -136 16 ) loose/WoodenFloorSpacers 0 60 90 1 1
+( -116 -240 28 ) ( -116 -240 29 ) ( -117 -240 28 ) loose/WoodenFloorSpacers 0 0 180 1 1
+( 16 -242 -4 ) ( 16 -242 -3 ) ( 16 -241 -4 ) loose/WoodenFloorSpacers 0 0 0 0.2 0.2
+}
+// brush 32
+{
+( 8 -126 146 ) ( 8 -125 146 ) ( 8 -126 147 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -268 114 ) ( 11 -268 114 ) ( 12 -268 115 ) loose/InnerWallBrown 0 0 180 1 1
+( 6 -4 132 ) ( -6 124 132 ) ( -6 -4 132 ) loose/WhitePlasterWall 0 60 90 1 1
+( -116 -126 248 ) ( -117 -126 248 ) ( -116 -125 248 ) loose/InnerWallBrown 0 60 90 1 1
+( -116 -236 146 ) ( -116 -236 147 ) ( -117 -236 146 ) loose/InnerWallBrown 0 0 180 1 1
+( 12 -254 114 ) ( 12 -254 115 ) ( 12 -253 114 ) loose/Brick 0 0 0 0.2 0.2
+}
+// brush 33
+{
+( 4 -76 148 ) ( 4 -75 148 ) ( 4 -76 149 ) loose/DarkGray 0 0 0 1 1
+( 32 -114 148 ) ( 32 -114 149 ) ( 33 -114 148 ) loose/DarkGray 0 0 0 1 1
+( 32 -76 148 ) ( 33 -76 148 ) ( 32 -75 148 ) loose/DarkGray 0 0 0 1 1
+( 40 -60 152 ) ( 40 -59 152 ) ( 41 -60 152 ) loose/DarkGray 0 0 0 1 1
+( 40 -54 152 ) ( 41 -54 152 ) ( 40 -54 153 ) loose/DarkGray 0 0 0 1 1
+( 44 -60 152 ) ( 44 -60 153 ) ( 44 -59 152 ) loose/DarkGray 0 0 0 1 1
+}
+// brush 34
+{
+( 8 -18 152 ) ( 8 -17 152 ) ( 8 -18 153 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -56 152 ) ( 32 -56 153 ) ( 33 -56 152 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -18 152 ) ( 33 -18 152 ) ( 32 -17 152 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -2 226 ) ( 40 -1 226 ) ( 41 -2 226 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -54 156 ) ( 41 -54 156 ) ( 40 -54 157 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -2 156 ) ( 40 -2 157 ) ( 40 -1 156 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 35
+{
+( 8 -18 152 ) ( 8 -17 152 ) ( 8 -18 153 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -112 152 ) ( 32 -112 153 ) ( 33 -112 152 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -18 224 ) ( 33 -18 224 ) ( 32 -17 224 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -2 226 ) ( 40 -1 226 ) ( 41 -2 226 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -56 156 ) ( 41 -56 156 ) ( 40 -56 157 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -2 156 ) ( 40 -2 157 ) ( 40 -1 156 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 36
+{
+( 8 -76 152 ) ( 8 -75 152 ) ( 8 -76 153 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -114 152 ) ( 32 -114 153 ) ( 33 -114 152 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 32 -76 152 ) ( 33 -76 152 ) ( 32 -75 152 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -60 226 ) ( 40 -59 226 ) ( 41 -60 226 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -112 156 ) ( 41 -112 156 ) ( 40 -112 157 ) loose/WoodenFloorSpacers 0 0 0 1 1
+( 40 -60 156 ) ( 40 -60 157 ) ( 40 -59 156 ) loose/WoodenFloorSpacers 0 0 0 1 1
+}
+// brush 37
+{
+( 8 -114.12765957447118 234 ) ( 8 -113.95744680852204 226 ) ( 8 -54 226 ) loose/WhitePlasterWall 0 0 0 1 1
+( 12 -113.95744680852204 226 ) ( 12 -114.12765957447118 234 ) ( 40 -116.12765957447209 234 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -115.95744680852226 226 ) ( 40 -54 226 ) ( 12 -54 226 ) loose/WhitePlasterWall 0 60 90 1 1
+( 12 -54 248 ) ( 40 -54 248 ) ( 40 -116.12765957447209 248 ) loose/InnerWallBrown 0 60 90 1 1
+( 40 -54 226 ) ( 40 -54 234 ) ( 12 -54 234 ) loose/Brick 0 0 0 0.2 0.2
+( 40 -116.12765957447209 234 ) ( 40 -54 234 ) ( 40 -54 226 ) loose/Brick 0 0 0 0.2 0.2
+}
+}
